@@ -1,0 +1,33 @@
+.table {
+    width: 40%;
+    font-size: 13px;
+}
+.table, th, td {
+    border: 2px solid #000000;
+    border-collapse: collapse;
+    text-align: inherit;
+    table-layout: fixed;
+}
+html {
+    background: url("../img/tt.jpg");
+    margin: 0;
+}
+#ps {
+    color: rgb(252, 0, 0);
+}
+#ttt {
+    background-color: #bebaba;
+}
+#to {
+    background-color: rgb(118, 255, 159);
+}
+#rr {
+    background-color: rgb(60, 248, 232);
+}
+.top {
+    font-family: Ethopool;
+    font-size: 30px;
+}
+.tt {
+    float: inherit;
+}
